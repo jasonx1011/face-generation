@@ -4,4 +4,4 @@
 
 **Project 5 (Generative Adversarial Networks): Face Generation**  
 
-Work-In-Progress        
+Completed       
