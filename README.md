@@ -1,10 +1,9 @@
 # face_generation
 
-**Deep Learning Foundation Nanodegree Program**  
+**Face Generation using Generative Adversarial Networks (GANs)**  
   
-**Project 5 (Generative Adversarial Network):**  
-  
-**Face Generation**  
+**Summary**  
+Generated new images from MINST & CelebA dataset using batch normalization technique, D/G Loss = 0.5 - 1.8  
   
 Please see detail in python notebook (.ipynb)  
   
