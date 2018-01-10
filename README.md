@@ -5,7 +5,7 @@
 **Summary**  
 Generated new images from MINST & CelebA dataset using batch normalization technique, D/G Loss = 0.5 - 1.8  
   
-Please see detail in python notebook (.ipynb)  
+Please see detail in python [notebook](./dlnd_face_generation.ipynb) (.ipynb)  
   
 **Sample Results:**  
 ![sample_plot_1](./assets/sample_plot_1.png)  
